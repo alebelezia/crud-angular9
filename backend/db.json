@@ -1,18 +1,24 @@
 {
-    "products": 
-    [{
-        "id": 1,
-        "name": "Caneta",
-        "price": 5.89
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.89
     },
     {
-        "id": 2,
-        "name": "Notebook",
-        "price": 12000.89
+      "id": 2,
+      "name": "Notebook",
+      "price": 12000.89
     },
     {
-        "id": 3,
-        "name": "Celular",
-        "price": 5000.50
-    }]
+      "id": 3,
+      "name": "Celular",
+      "price": 5000.5
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 4
+    }
+  ]
 }
