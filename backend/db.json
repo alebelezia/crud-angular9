@@ -29,6 +29,11 @@
       "name": "Novo produto que veio do formulário",
       "price": "3.39",
       "id": 6
+    },
+    {
+      "name": "Lápis",
+      "price": "9.66",
+      "id": 7
     }
   ]
 }
