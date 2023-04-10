@@ -1,0 +1,12 @@
+.container{
+    padding: 15px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin-right: 15px;
+}
