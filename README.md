@@ -1,7 +1,8 @@
-### Aplicação CRUD 
+### Aplicação CRUD (projeto de estudo)
 
 - Backend: json-server
 - Frontend: Angular 
 
-Obs: projeto de estudo
-
+<p align="center">
+  <img src=".github/crud-angular9.gif">
+</p>
